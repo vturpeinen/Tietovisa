@@ -1,0 +1,114 @@
+Q Minkä värinen kissa on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen koira on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@punainen
+@vihreä
+
+Q Minkä värinen hevonen on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen kana on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@vihreä
+
+Q Minkä värinen rotta on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@sininen
+
+Q Minkä värinen koppakuoriainen on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen kettu on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen orava on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen leijona on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@punainen
+
+Q Minkä värinen tiikeri on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@ keltainen
+
+Q Minkä värinen tapiiri on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen susi on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen käärme on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@keltainen
+
+Q Minkä värinen hiiri on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@sininen
+
+Q Minkä värinen vompatti on?\n1. keltainen\n2. punainen\n3. sininen\n4. vihreä
+keltainen
+punainen
+sininen
+vihreä
+@sininen
+
+Q Anssin lempiväri?\n1. pinkki\n2. ruskea\n3. lime\n4. sininen\n5. oranssi
+pinkki
+ruskea
+lime
+sininen
+oranssi
+@pinkki
+@lime

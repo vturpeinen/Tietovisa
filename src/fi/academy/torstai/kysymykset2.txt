@@ -1,0 +1,89 @@
+Q Mikä/mitkät seuraavista on ikuinen silmukka(infinite loop)?\n1. while(true) {}\n2. for( ; ; ) {}\n3. for(int i = 1; i > 0; i++) {}\n4. do {} while();
+while(true) {}
+for( ; ; ) {}
+for(int i = 1; i > 0; i++) {}
+do {} while();
+
+Q Mitkä vaihtoehdoista ovat kääntäjän mielestä hyväksyttäviä muuttujan tai metodin nimiä?\n1. get_name\n2. final\n3. _name_\n4. 1stName
+get_name
+final
+_name_
+1stName
+
+Q Mitä tarkoittaa metodin kuormitus (overloading)?\n1. Metodille ei anneta toteutusta\n2. Perivä luokka korvaa kantaluokan metodin toteutuksen\n3. Metodilla on useita parametrejä\n4. Luokassa on useita samannimisiä metodeja, joilla on toisistaan eroavat parametrit
+Metodille ei anneta toteutusta
+Perivä luokka korvaa kantaluokan metodin toteutuksen
+Metodilla on useita parametrejä
+Luokassa on useita samannimisiä metodeja, joilla on toisistaan eroavat parametrit
+
+Q Poikkeuskäsittelyssä mikä seuraavista pitää paikkansa?\n1. try- lohkoa täytyy seurata finally-lohko\n2. try-lohkoa täytyy seurata catch lohko\n3. try-lohkon sisällä esitellyt muuttujat eivät näyt catch-lohkoon\n4. catch- ja finally-lohkoa ei saa liittää samaan try-lohkoon
+try- lohkoa täytyy seurata finally-lohko
+try-lohkoa täytyy seurata catch lohko
+try-lohkon sisällä esitellyt muuttujat eivät näyt catch-lohkoon
+catch- ja finally-lohkoa ei saa liittää samaan try-lohkoon
+
+Q Mikä on staattinen alustuslohko?\n1. Siinä voidaan alustaa staattisia muuttujia\n2. Konstruktorin vaihtoehto\n3. Sellaista ei ole Javassa\n4. Sitä käytetään synkronoidussa koodissa
+Siinä voidaan alustaa staattisia muuttujia
+Konstruktorin vaihtoehto
+Sellaista ei ole Javassa
+Sitä käytetään synkronoidussa koodissa
+
+Q Valitse oikea väittämä: Java ohjelma kääntyy\n1. Tavukoodiksi\n2. Lähdekoodiksi\n3. Konekoodiksi\n4. Ei mikään näistä
+Tavukoodiksi
+Lähdekoodiksi
+Konekoodiksi
+Ei mikään näistä
+
+Q Mitä luokkaa käytetään satunnaisten numeroiden arpomiseen?\n1. Randomizer\n2. RandomUtils\n3. RandomManader\n4. Random
+Randomizer
+RandomUtils
+RandomManader
+Random
+
+Q Ohjelma joka kääntyy onnistuneesti, ei sisällä yhtään syntaksivirhettä:\n1. True\n2. False\n3. Joskus\n4. En osaa sanoa
+True
+False
+Joskus
+En osaa sanoa
+
+Q Mikä seuraavista esittelee, luo ja määrittelee toimivan listan?\n1. int [] lista = {2, 4, 6};\n2. int {} lista = (2, 4, 6);\n3. int lista [][] = {2, 4, 6, 5}\n4. int lista [] = {2, 4, 6}
+int [] lista = {2, 4, 6};
+int {} lista = (2, 4, 6);
+int lista [][] = {2, 4, 6, 5}
+int lista [] = {2, 4, 6}
+
+Q Mikä seuraavista on Java kielessä varattu avainsana?\n1. Interface\n2. String\n3. Float\n4. variable
+Interface
+String
+Float
+variable
+
+Q Mitä tekee ArrayListin metodi size()?\n1. Palauttaa listalla olevien alkioiden lukumäärän\n2. Muuttaa listan kokoa annetun parametrin verran\n3. Kasvattaa listan kokoa yhdellä kokonaisluvulla\n4. ArrayListalla ei ole metodeja
+Palauttaa listalla olevien alkioiden lukumäärän
+Muuttaa listan kokoa annetun parametrin verran
+Kasvattaa listan kokoa yhdellä kokonaisluvulla
+ArrayListalla ei ole metodeja
+
+Q Mitä seuraavista käytetään yhden rivin kommentointiin?\n1. / * rivin alussa\n2. ** rivin alussa\n3. // rivin lopussa\n4. // rivin alussa
+/* rivin alussa
+** rivin alussa
+// rivin lopussa
+// rivin alussa
+
+Q Minkä nimeämiseen käytetään Upper Camel Casea?\n1. Metodin parametrit\n2. Metodit\n3. Luokat\n4. Paikalliset muuttujat
+Metodin parametrit
+Metodit
+Luokat
+Paikalliset muuttujat
+
+Q Mikä loop on paras tilanteessa, jossa teidät kuinka monta kertaa haluat iteroida? (tarvitset iteraattorimuuttujan)\n1. do / while\n2. for\n3. while\n4. foreach
+do / while
+for
+while
+foreach
+
+Q Konstruktorilla tulee olla sama nimi kuon luokalla\n1. Aina\n2. Ei koskaan\n3. Joskus\n4. Vain perjantaisin
+Aina
+Ei koskaan
+Joskus
+Vain perjantaisin
